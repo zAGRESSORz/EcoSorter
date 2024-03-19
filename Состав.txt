@@ -1,0 +1,6 @@
+Приложение для сортировки мусора:
+Список команды:
+Сластников Кирилл Андреевич - slastwork@gmail.com
+Раич Николай Дмитриевич - raich.nikolai@yandex.ru
+
+https://github.com/zAGRESSORz/EcoSorter
